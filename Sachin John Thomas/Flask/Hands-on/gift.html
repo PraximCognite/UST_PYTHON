@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gift for Ajin</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0; /* Ensuring no extra space above */
+        }
+        .navbar {
+            width: 100%;
+            background-color: #333;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px; /* Added space below navbar */
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        .container {
+            max-width: 500px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        .buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+            justify-content: center;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            font-size: 1em;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .total {
+            margin-top: 20px;
+            font-size: 1.5em;
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="nav-links">
+            <a href="home.html">Home</a>
+            <a href="friends.html">Friends</a>
+            <a href="wishes.html">Wishes</a>
+            <a href="image.html">Image</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>Choose Your Gift for Ajin</h1>
+        <input type="text" id="senderName" placeholder="Enter your name" required>
+        <div class="buttons">
+            <button onclick="addAmount(50)">₹50</button>
+            <button onclick="addAmount(100)">₹100</button>
+            <button onclick="addAmount(500)">₹500</button>
+            <button onclick="addAmount(1000)">₹1000</button>
+            <button onclick="addAmount(5000)">₹5000</button>
+        </div>
+        <input type="number" id="customAmount" placeholder="Enter custom amount" oninput="addCustomAmount()">
+        <div class="total">Total Gift: ₹<span id="totalAmount">0</span></div>
+        <button onclick="submitGift()">Submit Gift</button>
+    </div>
+
+    <script>
+        let total = 0;
+
+        function addAmount(amount) {
+            total += amount;
+            document.getElementById("totalAmount").textContent = total;
+        }
+
+        function addCustomAmount() {
+            let customAmount = parseInt(document.getElementById("customAmount").value) || 0;
+            total = customAmount;
+            document.getElementById("totalAmount").textContent = total;
+        }
+
+        function submitGift() {
+            let senderName = document.getElementById("senderName").value.trim();
+            if (senderName === "") {
+                alert("Please enter your name before submitting.");
+                return;
+            }
+            alert(senderName + " has sent a gift of ₹" + total);
+            // Here, you can add code to send the data to a server or store it as needed.
+        }
+    </script>
+</body>
+</html>

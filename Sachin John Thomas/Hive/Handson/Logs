@@ -1,0 +1,337 @@
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A12%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A38%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A38%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A49%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A49%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A46%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A46%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A04%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A04%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A38%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A38%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A25%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A25%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A11%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A11%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A25%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A25%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A18%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A18%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A27%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A27%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A14%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A14%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A36%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A36%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A14%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A14%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A18%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A18%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A04%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A04%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A01%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A01%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A21%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A21%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A56%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A56%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A26%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A26%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A19%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A19%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A49%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A49%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A31%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A31%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A32%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A32%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A04%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A04%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A00%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A00%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A18%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A18%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A01%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A01%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A16%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A16%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A53%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A53%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A35%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A35%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A28%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A28%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A41%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A41%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A24%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A24%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A13%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A13%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A13%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A13%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A43%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A43%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A14%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A14%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A51%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A51%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A41%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A41%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A52%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A52%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A18%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A18%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A40%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A40%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A28%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A28%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A33%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A33%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A39%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2011%253A39%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A32%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A32%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A28%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A28%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A44%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A44%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A54%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A54%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A03%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A03%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A34%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A34%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A38%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A38%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A54%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A54%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A33%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A33%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A41%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A41%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A46%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A46%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A06%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A06%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A55%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A55%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A15%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A15%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A44%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A44%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A28%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A28%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A17%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A17%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A59%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A59%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A36%253A00/log_level=INFO': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A36%253A00/log_level=INFO': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A50%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2013%253A50%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A54%253A00/log_level=WARN': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A54%253A00/log_level=WARN': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A31%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2012%253A31%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A51%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2010%253A51%253A00/log_level=ERROR': Permission denied
+chgrp: changing ownership of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A56%253A00/log_level=ERROR': Permission denied
+chmod: changing permissions of 'hdfs://localhost.localdomain:8020/user/hive/warehouse/logs_part/log_state=2025-05-01%2014%253A56%253A00/log_level=ERROR': Permission denied
+	Loading partition {log_state=2025-05-01 13:16:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:31:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:49:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 14:41:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:01:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:11:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:49:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 14:54:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:04:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:58:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:20:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:27:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:42:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:53:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:08:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:40:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:11:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 13:51:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 14:33:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:30:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 14:31:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:26:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:25:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:54:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:40:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:12:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:38:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 14:49:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:46:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:04:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 14:38:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:25:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 14:11:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 12:25:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:18:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:27:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:14:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:36:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:14:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:18:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:04:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 14:01:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:21:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:56:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 14:26:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:19:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 14:49:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:31:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:32:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 12:04:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:00:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:18:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:01:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:16:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:53:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:35:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:28:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 14:41:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 12:24:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 14:13:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 11:13:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:43:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:14:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 12:51:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 12:41:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:52:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 14:18:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 12:40:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 12:28:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 11:33:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 11:39:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:32:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:28:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:44:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 10:54:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 13:03:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:34:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:38:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:54:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:33:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:41:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 12:46:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:06:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:55:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 13:15:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:44:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 10:28:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:17:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 14:59:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:36:00, log_level=INFO}
+	Loading partition {log_state=2025-05-01 13:50:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 12:54:00, log_level=WARN}
+	Loading partition {log_state=2025-05-01 12:31:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 10:51:00, log_level=ERROR}
+	Loading partition {log_state=2025-05-01 14:56:00, log_level=ERROR}
+Partition default.logs_part{log_state=2025-05-01 10:04:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:04:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 40, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:06:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:11:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:12:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:14:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:14:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 51, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:17:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 47, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:18:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 36, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:19:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:20:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 55, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:25:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 33, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:27:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 67, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:28:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 36, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:30:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:31:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:34:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:35:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 36, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:38:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 29, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:42:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 26, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:46:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 40, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:51:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 77, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:54:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 75, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 10:58:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:00:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 32, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:01:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 25, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:04:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 37, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:08:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 50, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:11:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 53, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:13:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 88, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:16:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 51, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:18:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 26, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:21:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 50, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:25:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 36, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:26:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 41, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:27:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:28:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:31:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 55, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:32:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 47, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:33:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:36:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 35, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:38:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:39:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:40:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 33, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:40:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 35, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:43:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:49:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:52:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:53:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 25, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 11:54:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 32, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:04:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 56, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:24:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 29, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:25:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 32, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:28:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:31:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 56, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:36:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:40:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 29, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:41:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:44:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:44:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 45, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:46:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 33, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:49:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:51:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 32, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:54:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 12:55:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 38, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:01:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:03:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:14:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 56, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:15:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:16:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:18:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 68, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:28:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 35, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:32:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 32, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:33:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 34, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:41:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 44, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:50:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:51:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 33, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:53:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:54:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 13:56:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 36, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:01:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 47, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:11:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:13:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:18:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:26:00, log_level=INFO} stats: [num_files: 1, num_rows: 0, total_size: 29, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:31:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:33:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 35, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:38:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:41:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 31, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:41:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 43, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:49:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 56, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:49:00, log_level=WARN} stats: [num_files: 1, num_rows: 0, total_size: 28, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:54:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 35, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:56:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 30, raw_data_size: 0]
+Partition default.logs_part{log_state=2025-05-01 14:59:00, log_level=ERROR} stats: [num_files: 1, num_rows: 0, total_size: 33, raw_data_size: 0]
+Table default.logs_part stats: [num_partitions: 95, num_files: 95, num_rows: 0, total_size: 3587, raw_data_size: 0]
+100 Rows loaded to logs_part
+MapReduce Jobs Launched: 
+Job 0: Map: 1   Cumulative CPU: 1.86 sec   HDFS Read: 6347 HDFS Write: 3587 SUCCESS
+Total MapReduce CPU Time Spent: 1 seconds 860 msec
+OK
+Time taken: 53.158 seconds
+hive> 
